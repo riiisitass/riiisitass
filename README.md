@@ -32,17 +32,4 @@
 
 ---
 
-**📊 Estadísticas**
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riiisitass&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/riiisitass)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riiisitass&layout=compact&theme=github_dark&hide_border=true)](https://github.com/riiisitass)
-
----
-
-**📫 Cómo contactarme:**
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_CORREO@GMAIL.COM)
-
----
-
 ⭐ **Haciendo cosas, aprendiendo en el camino.**
