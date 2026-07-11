@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=ranitax;Programador+por+aburrimiento" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Ranitax;Programador+por+aburrimiento" alt="Typing SVG" />
 </p>
 
 <p align="center">
