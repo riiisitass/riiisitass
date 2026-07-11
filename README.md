@@ -41,7 +41,7 @@ Desarrollando un escáner de cámaras IP para Latinoamérica y España (proyecto
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riiisitass&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riiisitass&theme=github-dark&hide_border=true" width="48%" />
 
 </p>
 
