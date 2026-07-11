@@ -1,9 +1,6 @@
-<!--
-  Perfil de GitHub para riiisitass.
-  Diseño limpio y minimalista.
--->
 
-### 👋 Hola, soy Ranitax (un alias)  
+
+### 👋 Hola, soy Ranitax 
 *Programador por aburrimiento, autodidacta, y entusiasta de la seguridad.*
 
 ---
