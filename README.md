@@ -25,7 +25,7 @@
 
 | Proyecto | Descripción | Estado |
 | :--- | :--- | :--- |
-| **Camera Checker** | Escáner de cámaras IP con arquitectura productor-consumidor. | 🟢 En desarrollo |
+| **Camera Checker** | Escáner de cámaras IP con arquitectura productor-consumidor. | 🟢 Finalizado|
 
 ---
 
